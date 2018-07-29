@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+build/
+dist/
+loggendra_server.egg-info/
+__pycache__
